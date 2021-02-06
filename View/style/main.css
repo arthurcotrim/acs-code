@@ -58,7 +58,7 @@
     font-size: 1.75rem;
 }
 
-.content-footer p{
+.content-footer p {
     color: #00fa9a;
 }
 
@@ -102,4 +102,52 @@
 
 .content-footer footer button:hover {
     background: #00fa9a;
+}
+
+.aboutMe-section {
+    text-align: center;
+    background: #000;
+    height: auto;
+    padding: 2rem 4.375rem;
+}
+
+.aboutMe-content {
+    opacity: .8;
+    background: #fff;
+    padding: 2rem;
+    border-radius: 0.3rem;
+}
+
+.aboutMe-content:hover {
+    opacity: .9;
+}
+
+.my-image {
+    width: 9.3rem;
+    height: 10.4rem;
+    background: url(../images/perfil.jpg) no-repeat;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.aboutMe-text {
+    margin: 1.6rem  auto .1rem;
+}
+
+.aboutMe-text h3 {
+    font: 700 1.2rem sans-serif;
+    line-height: 2rem;
+    color: #000;
+}
+
+.aboutMe-text p {
+    font: normal 1.2rem sans-serif;
+    line-height: 1.9rem;
+    color: #000;
+}
+
+.aboutMe-text span {
+    font: 200 1.2rem sans-serif;
+    line-height: 3rem;
+    color: #000;
 }
