@@ -100,7 +100,7 @@
     opacity: 0.8;
 }
 
-.content-footer footer button:hover {
+.content-footer .footer button:hover {
     background: #00fa9a;
 }
 
@@ -112,14 +112,14 @@
 }
 
 .aboutMe-content {
-    opacity: .8;
+    opacity: 0.8;
     background: #fff;
     padding: 2rem;
     border-radius: 0.3rem;
 }
 
 .aboutMe-content:hover {
-    opacity: .9;
+    opacity: 0.9;
 }
 
 .my-image {
@@ -131,7 +131,7 @@
 }
 
 .aboutMe-text {
-    margin: 1.6rem  auto .1rem;
+    margin: 1.6rem auto 0.1rem;
 }
 
 .aboutMe-text h3 {
@@ -150,4 +150,16 @@
     font: 200 1.2rem sans-serif;
     line-height: 3rem;
     color: #000;
+}
+
+.final-footer {
+    text-align: center;
+    background: #000;
+    height: auto;
+    padding: 2rem 4.375rem;
+    line-height: 1.5rem;
+}
+
+.final-footer p:hover{
+    color: #00fa9a;
 }
