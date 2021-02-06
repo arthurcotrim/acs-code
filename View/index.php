@@ -53,7 +53,7 @@
                         <h3><a href="#">Curso completo de Html5</h3></a>
                         <hr>
                         <p>R$ Free</p>
-                        <footer>
+                        <footer class="footer">
                             <button class="footer-btn">Enroll now</button>
                         </footer>
                     </div>
@@ -67,7 +67,7 @@
                         <h3><a href="#">Curso de Css 3</h3></a>
                         <hr>
                         <p>R$ Free</p>
-                        <footer>
+                        <footer class="footer">
                             <button class="footer-btn">Enroll now</button>
                         </footer>
                     </div>
@@ -81,7 +81,7 @@
                         <h3><a href="#">Curso básico de Javascript</h3></a>
                         <hr>
                         <p>R$ Free</p>
-                        <footer>
+                        <footer class="footer">
                             <button class="footer-btn">Enroll now</button>
                         </footer>
                     </div>
@@ -106,6 +106,11 @@
             </div>
         </section>
     </main>
+
+    <footer class="final-footer">
+        <p>Todos os diretios reservados</p>
+        <p>&copy; 2021 por Acs_Code.</p>
+    </footer>
 </body>
 
 </html>
