@@ -14,7 +14,92 @@
     font-size: 2.3rem;
 }
 
-.welcome-section-text span{
+.welcome-section-text span {
     font-size: 1.3rem;
     line-height: 5rem;
+}
+
+.course-section {
+    background: #000;
+    height: auto;
+    padding: 2rem 4.375rem;
+}
+
+.courses {
+    height: 37.5rem;
+    width: 22.4rem;
+    margin: 1rem auto;
+    border: 1px solid white;
+}
+
+.course-html {
+    background: url("../images/bg-code-computer.jpg") no-repeat;
+    height: 18.75rem;
+}
+
+.course-css {
+    background: url("../images/bg-code-computer.jpg") no-repeat;
+    height: 18.75rem;
+}
+
+.course-js {
+    background: url("../images/bg-code-computer.jpg") no-repeat;
+    height: 18.75rem;
+}
+
+.content-footer {
+    color: #fff;
+    text-align: left;
+    padding: 3.125rem 1.875rem;
+    height: auto;
+}
+
+.content-footer h3 {
+    font-size: 1.75rem;
+}
+
+.content-footer p{
+    color: #00fa9a;
+}
+
+.content-footer hr {
+    margin: 1.5rem auto;
+}
+
+.content-footer a {
+    font-size: 1.6rem;
+    text-decoration: none;
+    color: #fff;
+}
+
+.footer-btn {
+    margin: 1.5rem auto;
+    background: #22b169;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: center;
+    border: 1px solid transparent;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+    transition: background 0.4s ease-in-out;
+}
+
+.course-html:hover,
+.content-footer a:hover {
+    opacity: 0.8;
+}
+
+.course-css:hover,
+.content-footer a:hover {
+    opacity: 0.8;
+}
+
+.course-js:hover,
+.content-footer a:hover {
+    opacity: 0.8;
+}
+
+.content-footer footer button:hover {
+    background: #00fa9a;
 }
