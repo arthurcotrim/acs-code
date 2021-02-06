@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style/main.css">
     <link rel="stylesheet" href="./style/navbar.css">
 
     <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
@@ -11,6 +13,7 @@
     <script src="./scripts/main.js"></script>
     <title>Home | Acs_Code</title>
 </head>
+
 <body>
     <header>
         <div class="main-header">
@@ -28,5 +31,22 @@
             </ul>
         </nav>
     </header>
+
+    <main>
+        <div class="welcome-section-main">
+            <div class="bg-wallpaper"></div>
+
+            <div class="welcome-se\ction-text">
+
+                <h2>Bem-vindo à <p>Acs_Code</p>
+                </h2>
+
+                <span>Seu futuro começa agora</span>
+            </div>
+        </div>
+
+
+    </main>
 </body>
+
 </html>
