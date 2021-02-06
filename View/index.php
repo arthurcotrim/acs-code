@@ -33,18 +33,18 @@
     </header>
 
     <main>
-        <div class="welcome-section-main">
-            <div class="bg-wallpaper"></div>
-
-            <div class="welcome-se\ction-text">
-
-                <h2>Bem-vindo à <p>Acs_Code</p>
-                </h2>
-
-                <span>Seu futuro começa agora</span>
-            </div>
-        </div>
-
+        
+            <section class="welcome-section-main">
+                <div class="bg-wallpaper"></div>
+    
+                <div class="welcome-section-text">
+    
+                    <h2>Bem-vindo à <p>Acs_Code</p>
+                    </h2>
+    
+                    <span>Seu futuro começa agora</span>
+                </div>
+            </section>
 
     </main>
 </body>
