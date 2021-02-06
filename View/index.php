@@ -89,6 +89,22 @@
             </div>
 
         </section>
+
+        <section class="aboutMe-section">
+            <div class="aboutMe-content">
+                <figure>
+                    <div class="my-image"></div>
+
+                    <div class="aboutMe-text">
+                        <h3>Arthur Cotrim Santos</h3>
+
+                        <p>Hello everyone, I'm a developer and I want to help you improve your skills with me!</p>
+                        <p>Here you can access some of my free courses, where I show the basics and how to get better with projects.</p>
+                        <span>☕ Let's go and Code</span>
+                    </div>
+                </figure>
+            </div>
+        </section>
     </main>
 </body>
 
