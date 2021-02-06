@@ -33,19 +33,62 @@
     </header>
 
     <main>
-        
-            <section class="welcome-section-main">
-                <div class="bg-wallpaper"></div>
-    
-                <div class="welcome-section-text">
-    
-                    <h2>Bem-vindo à <p>Acs_Code</p>
-                    </h2>
-    
-                    <span>Seu futuro começa agora</span>
-                </div>
-            </section>
+        <section class="welcome-section-main">
+            <div class="bg-wallpaper"></div>
 
+            <div class="welcome-section-text">
+
+                <h2>Bem-vindo à <p>Acs_Code</p>
+                </h2>
+
+                <span>Seu futuro começa agora</span>
+            </div>
+        </section>
+
+        <section class="course-section">
+            <div class="courses">
+                <div class="course-html"></div>
+                <footer>
+                    <div class="content-footer">
+                        <h3><a href="#">Curso completo de Html5</h3></a>
+                        <hr>
+                        <p>R$ Free</p>
+                        <footer>
+                            <button class="footer-btn">Enroll now</button>
+                        </footer>
+                    </div>
+                </footer>
+            </div>
+
+            <div class="courses">
+                <div class="course-css"></div>
+                <footer>
+                    <div class="content-footer">
+                        <h3><a href="#">Curso de Css 3</h3></a>
+                        <hr>
+                        <p>R$ Free</p>
+                        <footer>
+                            <button class="footer-btn">Enroll now</button>
+                        </footer>
+                    </div>
+                </footer>
+            </div>
+
+            <div class="courses">
+                <div class="course-js"></div>
+                <footer>
+                    <div class="content-footer">
+                        <h3><a href="#">Curso básico de Javascript</h3></a>
+                        <hr>
+                        <p>R$ Free</p>
+                        <footer>
+                            <button class="footer-btn">Enroll now</button>
+                        </footer>
+                    </div>
+                </footer>
+            </div>
+
+        </section>
     </main>
 </body>
 
