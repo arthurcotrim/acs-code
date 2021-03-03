@@ -116,7 +116,9 @@
         <section class="aboutMe-section">
             <div class="aboutMe-content">
                 <figure>
-                    <div class="my-image"></div>
+                    <div class="my-image">
+                        <img src="./images/perfil.jpg" alt="Arthur Cotrim Santos - Foto Perfil">
+                    </div>
 
                     <div class="aboutMe-text">
                         <h3>Arthur Cotrim Santos</h3>
